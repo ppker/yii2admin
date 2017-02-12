@@ -2,7 +2,7 @@
 
 use yii\db\Migration;
 
-class m161201_115701_captcha extends Migration
+class m170206_022119_captcha extends Migration
 {
     public function up()
     {
